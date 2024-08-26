@@ -5,5 +5,5 @@
 <hr>
     <p align="center">You can view the website over at <a href="https://arsenobetaine.github.io/notesapp">https://arsenobetaine.github.io/notesapp</a>!</p>
 <hr>
-    <img src="aaa" />
+    <img src="https://github.com/user-attachments/assets/0e0cf6d4-0f81-46a8-ac68-92077409b60a" />
 <hr>
